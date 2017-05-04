@@ -1,0 +1,20 @@
+
+#  ____  ____   ___   _____   ______  
+# |_   ||   _|.'   `.|_   _|.' ___  | 
+#   | |__| | /  .-.  \ | | / .'   \_| 
+#   |  __  | | |   | | | | | |        
+#  _| |  | |_\  `-'  /_| |_\ `.___.'\ 
+# |____||____|`.___.'|_____|`.____ .' 
+#                                    
+# Welcome to the High Orbital Ion Cannon config!
+# -------------------------------
+
+# Time in seconds between when the laser shows up and when the explosion occurs.
+explosion_delay: 5
+
+# The laser's colour determined by Minecrafts wool colour codes: 15 - Black, 14 - Red, 13 - Green...etc. 
+laser_colour: 14 
+
+# Time in seconds for the user to abort a '/hoic look' launch.
+abort_delay: 8
+

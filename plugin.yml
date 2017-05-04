@@ -1,0 +1,12 @@
+name: OrbitalCannon
+main: com.bijxfilms.HOIC.IonCannonMain
+version: 1.0.0
+commands:
+   hoic:
+      description: Primary Orbital Cannon Command.
+
+permissions:
+   hoic.use:
+      description: Use the ion laser by looking at positions and entering location coordinates.
+      default: op
+   
